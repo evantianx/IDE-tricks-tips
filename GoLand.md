@@ -48,3 +48,13 @@ msg = msg.
 
 msg = fmt.Printf(msg)
 ```
+
+### Completion with Tab
+
+Completion with Tab key instead of Enter overwrites the identifier
+
+```go
+fmt.Println("hello")
+// type Printf before Println and then hit Tab, Println will be replaced
+fmt.Printf("hello")
+```
