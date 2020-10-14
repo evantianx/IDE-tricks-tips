@@ -58,3 +58,23 @@ fmt.Println("hello")
 // type Printf before Println and then hit Tab, Println will be replaced
 fmt.Printf("hello")
 ```
+
+### Create Undefined Type
+
+```go
+// message struct is not defined
+// you can invoke by alt + enter to create a type here
+// same for the field
+msg := message{
+    field1: 1,
+    field2: "word"
+}
+```
+
+### Extend/Shrink selection
+
+`Alt` + `Up` to extend; `Alt` + `Down` to shrink  
+
+### Add selection for Next Occurrence
+
+`Ctrl` + `G` to add selection one by one; `Ctrl` + `Shift` + `G` to cancel selection one by one 
