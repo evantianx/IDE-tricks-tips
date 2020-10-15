@@ -78,3 +78,9 @@ msg := message{
 ### Add selection for Next Occurrence
 
 `Ctrl` + `G` to add selection one by one; `Ctrl` + `Shift` + `G` to cancel selection one by one 
+
+### Navigate files
+
+- `Ctrl` + `Tab` open switcher;
+- `⌘` + `E` open recent files;
+- `⌘` + `Shift` + `E` open recent locations of current file
