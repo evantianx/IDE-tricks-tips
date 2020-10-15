@@ -11,7 +11,7 @@ on this mode, you can navigate files with `L⌘` + `Up`
 
 ### SmartType
 
-`R⌘` + `s` to keep code completion close to what we want
+`R⌘` + `s` to narrow down code completion to what we want
 
 ### Postfix Completion
 
