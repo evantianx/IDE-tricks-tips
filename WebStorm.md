@@ -30,6 +30,6 @@
      
 4. Refactor(`Cmd` + `T`)
 
-
+> [WebStorm Default OS X Keymap](https://resources.jetbrains.com/storage/products/webstorm/docs/WebStorm_ReferenceCard.pdf)
 > [Tips](https://www.jetbrains.com/webstorm/guide/tips/)
     
